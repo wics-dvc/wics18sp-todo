@@ -1,0 +1,7 @@
+My To Do List
+=============
+[ ] Do homeworks
+[ ] Study for exam
+[ ] Appy to hackathons
+[x] Practice cup stacking
+[x] Go to WiCS
