@@ -1,5 +1,5 @@
 # C++ To Do List
-*~DVC WiCS Spring 2018 Project~*
+*DVC WiCS Spring 2018 Project*
 
 Hello and welcome to the repository for the C++ To Do List project! Here you'll find all the codes and resources necessary to learn and create your own to do list program.
 
