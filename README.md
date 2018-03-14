@@ -17,6 +17,7 @@ Before you start coding away, go to the ["Getting Started"](#getting-started) se
     * [Cloning](#cloning)
     * [Changing](#changing)
     * [Updating](#updating)
+* [How to run the code](#how-to-run-the-code)
 * [Credits](#credits)
 
 ---
@@ -70,6 +71,11 @@ You'll have to do these steps each time we update the lessons. If you're tired o
 6. Type `git pull upstream master`.
 
 Now, everytime we update the lesson, you'll just have to type `git pull upstream master` to keep up with the updates.
+
+## How to run the code
+1. cd to the directory that you are working on
+2. Type `g++ -o todo todo.cpp` to compile it
+3. Type `./todo` to run it
 
 ## Credits
 
