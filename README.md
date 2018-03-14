@@ -66,8 +66,7 @@ You'll have to do these steps each time we update the lessons. If you're tired o
 1. Click the green "Clone or download" button at the top of this repository.
 2. Copy the link that showed up.
 3. Open a command line or terminal in your repository folder.
-4. Type `git remote add upstream <the copied url>`.
-5. Type `git fetch upstream`.
+4. Type `git remote add upstream https://github.com/wics-dvc/wics18sp-todo.git`.
 6. Type `git pull upstream master`.
 
 Now, everytime we update the lesson, you'll just have to type `git pull upstream master` to keep up with the updates.
