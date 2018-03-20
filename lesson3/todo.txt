@@ -1,0 +1,5 @@
+0 | Do homeworks | Today
+0 | Study for exam | Tomorrow
+0 | Apply to hackathons | 03/31/2018
+1 | Practice cup stacking | 02/27/2018
+1 | Go to WiCS | Today

@@ -26,7 +26,8 @@ Before you start coding away, go to the ["Getting Started"](#getting-started) se
 
 * Lesson 1: **Reading and Writing Files**
 * Lesson 2: **Manipulating Strings**
-* ... more to be added!
+* Lesson 3: **Storing Data with Vectors**
+* Final Project: **Making a To Do List Program**
 
 ## Getting Started
 
