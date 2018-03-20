@@ -17,6 +17,7 @@ Before you start coding away, go to the ["Getting Started"](#getting-started) se
     * [Cloning](#cloning)
     * [Changing](#changing)
     * [Updating](#updating)
+* [How to run the code](#how-to-run-the-code)
 * [Credits](#credits)
 
 ---
@@ -66,11 +67,15 @@ You'll have to do these steps each time we update the lessons. If you're tired o
 1. Click the green "Clone or download" button at the top of this repository.
 2. Copy the link that showed up.
 3. Open a command line or terminal in your repository folder.
-4. Type `git remote add upstream <the copied url>`.
-5. Type `git fetch upstream`.
+4. Type `git remote add upstream https://github.com/wics-dvc/wics18sp-todo.git`.
 6. Type `git pull upstream master`.
 
 Now, everytime we update the lesson, you'll just have to type `git pull upstream master` to keep up with the updates.
+
+## How to run the code
+1. cd to the directory that you are working on
+2. Type `g++ -o todo todo.cpp` to compile it
+3. Type `./todo` to run it
 
 ## Credits
 
