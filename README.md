@@ -17,7 +17,7 @@ Before you start coding away, go to the ["Getting Started"](#getting-started) se
     * [Cloning](#cloning)
     * [Changing](#changing)
     * [Updating](#updating)
-* [How to run the code](#how-to-run-the-code)
+  * [Compiling](#compiling)
 * [Credits](#credits)
 
 ---
@@ -72,10 +72,12 @@ You'll have to do these steps each time we update the lessons. If you're tired o
 
 Now, everytime we update the lesson, you'll just have to type `git pull upstream master` to keep up with the updates.
 
-## How to run the code
-1. cd to the directory that you are working on
-2. Type `g++ -o todo todo.cpp` to compile it
-3. Type `./todo` to run it
+### Compiling
+
+1. Install a C++ compiler. *(WiCS recommends you to use [GCC](https://gcc.gnu.org/), but other compiler works fine too.)*
+1. Open a command line or terminal in your repository folder.
+2. Type `g++ todo.cpp -o todo ` to compile your code.
+3. Type `./todo` to run the program you just created.
 
 ## Credits
 
